@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on [module-11 Note Taker](https://github.com/mckayfackrell/module-11-Note-Taker)
+🔧 I’m currently working on: [module-11 Note Taker](https://github.com/mckayfackrell/module-11-Note-Taker)
 
-🌱 I’m currently learning **mySQL**
+🌱 I’m currently learning: **mySQL**
 
-👨🏻‍💻 All of my projects are available at [https://github.com/mckayfackrell?tab=repositories](https://github.com/mckayfackrell?tab=repositories)
+👨🏻‍💻 All of my projects are available at: [https://github.com/mckayfackrell?tab=repositories](https://github.com/mckayfackrell?tab=repositories)
 
-✉️ How to reach me **mvfackrell@gmail.com**
+✉️ How to reach me: **mvfackrell@gmail.com**
 
-⚡ Fun fact **I am a twin and can speak 中文 Mandarin, Chinese**
+⚡ Fun fact: **I am a twin and can speak 中文 Mandarin, Chinese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
