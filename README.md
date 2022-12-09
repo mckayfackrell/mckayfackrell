@@ -8,7 +8,7 @@
 
 🔧 I’m currently working on: [module-12 Employee Tracker](https://github.com/mckayfackrell/module-12-Employee-Tracker)
 
-🌱 I’m currently learning: **mySQL**
+🌱 I’m currently learning: **Databases**
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
