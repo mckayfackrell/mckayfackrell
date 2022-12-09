@@ -12,8 +12,6 @@
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
-✉️ How to reach me: **mvfackrell@gmail.com**
-
 ⚡ Fun fact: **I am a twin and can speak 中文 Mandarin, Chinese**
 
 <h3 align="left">Connect with me:</h3>
