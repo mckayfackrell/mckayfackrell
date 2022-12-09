@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on: [module-12 Employee Tracker](https://github.com/mckayfackrell/module-12-Employees-Tracker)
+🔧 I’m currently working on: [module-12 Employee Tracker](https://github.com/mckayfackrell/module-12-Employee-Tracker)
 
 🌱 I’m currently learning: **mySQL**
 
-👨🏻‍💻 All of my projects are available at: [https://github.com/mckayfackrell?tab=repositories](https://github.com/mckayfackrell?tab=repositories)
+👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
 ✉️ How to reach me: **mvfackrell@gmail.com**
 
