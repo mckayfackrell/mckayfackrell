@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on: [module-12 Employee Tracker](https://github.com/mckayfackrell/module-12-Employee-Tracker)
+🔧 I’m currently working on: [CashFlow](https://github.com/marcusgoodwin/CashFlow), [module-13 E-commerce Back End](https://github.com/mckayfackrell/module-13-E-commerce-Back-End) & [module-14 Tech Blog](https://github.com/mckayfackrell/module-14-Tech-Blog) 
 
 🌱 I’m currently learning: **Databases**
 
