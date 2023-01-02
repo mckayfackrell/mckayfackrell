@@ -8,7 +8,7 @@
 
 🔧 I’m currently working on: [CashFlow](https://github.com/marcusgoodwin/CashFlow), [module-13 E-commerce Back End](https://github.com/mckayfackrell/module-13-E-commerce-Back-End) & [module-14 Tech Blog](https://github.com/mckayfackrell/module-14-Tech-Blog) 
 
-🌱 I’m currently learning: **Databases**
+🌱 I’m currently learning: **MVC**
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
