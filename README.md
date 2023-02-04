@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on: [module-18 Social Network API](https://github.com/mckayfackrell/module-18-Social-Network-API) & [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
+🔧 I’m currently working on: [module-19-PWA-Text-Editor](https://github.com/mckayfackrell/module-19-PWA-Text-Editor) & [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
 
 🌱 I’m currently learning: **MVC**
 
