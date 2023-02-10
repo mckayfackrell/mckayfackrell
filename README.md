@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on: [module-19-PWA-Text-Editor](https://github.com/mckayfackrell/module-19-PWA-Text-Editor) & [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
+🔧 I’m currently working on: [mckay-portfolio](https://github.com/mckayfackrell/mckay-portfolio) & [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
 
-🌱 I’m currently learning: **REACT**  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="20" height="20"/> </a>
+🌱 I’m currently learning: **MERN**  
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
