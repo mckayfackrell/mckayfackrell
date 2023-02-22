@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
 
 
-🔧 I’m currently working on: [mckay-portfolio](https://github.com/mckayfackrell/mckay-portfolio) & [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
+🔧 I’m currently working on: [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
 
-🌱 I’m currently learning: **MERN**  
+🌱 I’m currently learning: **REACT**  
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
