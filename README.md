@@ -7,7 +7,7 @@
 
 🦕 Check out my portfolio! [McKay's Portfolio](https://mckayfackrell.github.io/mckay-portfolio/)
 
-🔧 I’m currently working on:[McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
+🔧 I’m currently working on: [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
 
 🌱 I’m currently learning: **REACT**  
 
