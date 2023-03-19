@@ -7,9 +7,9 @@
 
 🦕 Check out my portfolio! [McKay's Portfolio](https://mckayfackrell.github.io/mckay-portfolio/)
 
-🔧 I’m currently working on: [McKay's Movies](https://github.com/mckayfackrell/mckay-movies)
+🔧 I’m currently working on: [MCKAYFLIX](https://github.com/mckayfackrell/mckayflix)
 
-🌱 I’m currently learning: **REACT**  
+🌱 I’m currently learning: **REACT, Firebase, AWS**  
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
