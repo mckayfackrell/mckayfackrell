@@ -7,7 +7,7 @@
 
 🦕 Check out my portfolio! [McKay's Portfolio](https://mckayfackrell.github.io/mckay-portfolio/)
 
-🔧 I’m currently working on: [MCKAYFLIX](https://github.com/mckayfackrell/mckayflix)
+🔧 I’m currently working on: [MCKAYFLIX](https://github.com/mckayfackrell/mckayflix) & [AI Games](https://github.com/mckayfackrell/ai-games)
 
 🌱 I’m currently learning: **REACT, Firebase, AWS**  
 
