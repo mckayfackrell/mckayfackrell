@@ -3,6 +3,7 @@
 <h3 align="center">A passionate full stack web developer from Utah</h3>
 <img align="right" alt="Rubik Cube" width="175" src="https://3.bp.blogspot.com/-7GJqJBUZrIo/VT5Twnnte4I/AAAAAAAAIcM/bLGPaxNeo3o/s1600/solving_the_cube_by_nico894-d4h4pyw.gif">
 <img align="right" alt="Zelda" width="220" src="https://user-images.githubusercontent.com/110206514/227364225-44ef03e0-9862-4420-87b4-4eb76274b6b2.gif">
+<img align="right" alt="UofU" width="200" src="https://user-images.githubusercontent.com/110206514/228938636-ce4e4055-8d64-4b19-a10a-7e29aa18e7fb.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mckayfackrell&label=Profile%20views&color=0e75b6&style=flat" alt="mckayfackrell" /> </p>
