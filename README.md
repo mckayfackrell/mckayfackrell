@@ -10,7 +10,7 @@
 
 🔧 I’m currently working on: [MCKAYFLIX](https://github.com/mckayfackrell/mckayflix) & [AI Games](https://github.com/mckayfackrell/ai-games)
 
-🌱 I’m currently learning: **Vue, REACT, Firebase, AWS**  
+🌱 I’m currently learning: **Vue.js**  
 
 👨🏻‍💻 All of my projects are available at: [Repositories](https://github.com/mckayfackrell?tab=repositories)
 
